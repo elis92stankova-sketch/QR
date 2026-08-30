@@ -1,0 +1,12 @@
+Nahraj VŠECHEN obsah této složky do kořene stávajícího GitHub repozitáře.
+
+V kořeni repozitáře ponech také původní soubory:
+- sloupky.png
+- sipky.png
+
+QR kódy potom směruj na adresy končící přesně:
+- QR
+- QR2
+- QR3
+
+Nenahrávej na GitHub nadřazenou složku „github-upload“, ale její obsah.
