@@ -1,0 +1,27 @@
+FINÁLNÍ VARIANTA: TŘI ODKAZY, PRO HRÁČE JEDNA ADRESA
+
+1. Repozitář QR
+   - nahraď původní index.html souborem QR/index.html
+   - nahraj také přiložené obrázky sloupky.png a sipky.png
+
+2. Repozitář QR2
+   - nahraď původní index.html souborem QR2/index.html
+
+3. Repozitář QR3
+   - nahraď původní index.html souborem QR3/index.html
+
+TESTOVÁNÍ NA GITHUBU:
+https://jaja00725.github.io/QR
+https://jaja00725.github.io/QR2
+https://jaja00725.github.io/QR3
+
+POZDĚJI NA VLASTNÍM WEBU:
+https://vysetrito.cz/PRESMEROVANI/QR
+https://vysetrito.cz/PRESMEROVANI/QR2
+https://vysetrito.cz/PRESMEROVANI/QR3
+
+QR2 a QR3 předají hlavní stránce skrytou volbu obsahu. Hlavní stránka ji okamžitě odstraní z adresního řádku. Hráč proto po načtení vždy vidí jen hlavní adresu končící /QR.
+
+Odkazy jsou relativní. Balíček proto stejně funguje i na GitHubu nebo v jiné nadřazené složce, pokud QR, QR2 a QR3 zůstanou vedle sebe.
+
+BALÍČEK JE KOMPLETNÍ: všechny potřebné soubory jsou už uvnitř jednotlivých složek. Nekombinuj je se starou verzí. Složka assets není potřeba.
