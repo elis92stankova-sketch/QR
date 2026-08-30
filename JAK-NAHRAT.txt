@@ -1,0 +1,17 @@
+JEDEN REPOZITÁŘ QR – NAHRAJ CELÝ OBSAH TOHOTO BALÍČKU DO KOŘENE REPOZITÁŘE
+
+Výsledná struktura repozitáře musí být přesně:
+index.html
+sloupky.png
+sipky.png
+QR2/index.html
+QR3/index.html
+
+Testovací odkazy:
+https://jaja00725.github.io/QR/
+https://jaja00725.github.io/QR/QR2/
+https://jaja00725.github.io/QR/QR3/
+
+QR2 a QR3 pouze skrytě předají volbu obsahu hlavní stránce. Po načtení se hráči u všech tří odkazů zobrazí adresa končící /QR.
+
+Později lze stejný obsah vložit do vlastního webu například jako /PRESMEROVANI/QR, /PRESMEROVANI/QR2 a /PRESMEROVANI/QR3.
